@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\TestProj\bin\Debug\net8.0\KnightTask.exe
+C:\Users\Admin\source\repos\TestProj\bin\Debug\net8.0\KnightTask.deps.json
+C:\Users\Admin\source\repos\TestProj\bin\Debug\net8.0\KnightTask.runtimeconfig.json
+C:\Users\Admin\source\repos\TestProj\bin\Debug\net8.0\KnightTask.dll
+C:\Users\Admin\source\repos\TestProj\bin\Debug\net8.0\KnightTask.pdb
+C:\Users\Admin\source\repos\TestProj\obj\Debug\net8.0\KnightTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TestProj\obj\Debug\net8.0\KnightTask.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TestProj\obj\Debug\net8.0\KnightTask.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TestProj\obj\Debug\net8.0\KnightTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TestProj\obj\Debug\net8.0\KnightTask.dll
+C:\Users\Admin\source\repos\TestProj\obj\Debug\net8.0\refint\KnightTask.dll
+C:\Users\Admin\source\repos\TestProj\obj\Debug\net8.0\KnightTask.pdb
+C:\Users\Admin\source\repos\TestProj\obj\Debug\net8.0\KnightTask.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TestProj\obj\Debug\net8.0\ref\KnightTask.dll
